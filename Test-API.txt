@@ -1,0 +1,48 @@
+Teste de API com Postman 
+
+O que é API?
+
+-> Uma API Web ou API de serviço da Web é uma interface de processamento de aplicações entre um servidor da Web e um navegador da Web. 
+Todos os serviços da Web são APIs, mas nem todas as APIs são serviços da Web. A API REST é um tipo especial de API Web que usa o estilo de arquitetura padrão explicado acima.
+
+Pessoa ------- Pessoa (pessoalmente)
+?
+?
+?
+?
+?
+
+
+Tipos de APIs
+- SOA / SOAP: service oriented architecture + Protocol
+    WebService ----> Mantem conexão
+
+- WCF: Windodws Comunication Framework
+
+- REST: Completamente Assincrono
+        Mensagens vão formar uma fila
+        Responder fila
+
+Tpos de Documentação de API
+Contar como chamar a API (base url), o que ela faz (endpoints) e quais são os parametros / dados
+
+    - Manual: Alguem escreve um documento no word, Confluence, Azure DevOps, Wiki
+    - Automática: Padão Swagger
+    Nenhuma: Você tem que perguntar muito, varias entrevistas, montar o quebra-cabeça
+
+Operações Básicas:
+    - Matemática: Somar, Subtrair, Kultiplicar e Dividir
+    - Programação:                                           - APIs
+    (C)reate                        (I)ncluir                  Post
+    (R)ead/Research/Request         (C)onsultar                Get
+    (U)pdade                        (A)tualizar                Put (todos os campos) / Patch (seletivo)
+    (D)elete                        (E)xcluir                  Delete
+
+Ferramentas:
+    - Jmeter
+    - SouapUI
+    - WCFStorm
+    - Postman
+    - Insomia
+
+
